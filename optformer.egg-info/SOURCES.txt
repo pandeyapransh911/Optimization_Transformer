@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+optformer/__init__.py
+optformer.egg-info/PKG-INFO
+optformer.egg-info/SOURCES.txt
+optformer.egg-info/dependency_links.txt
+optformer.egg-info/requires.txt
+optformer.egg-info/top_level.txt
+optformer/omnipred/__init__.py
+optformer/omnipred/omnipred.py
+optformer/omnipred/omnipred_test.py
+optformer/omnipred/serialization.py
+optformer/omnipred/serialization_test.py
+optformer/omnipred/vocabs.py

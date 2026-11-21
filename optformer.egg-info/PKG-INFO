@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: optformer
+Version: 1.0
+Summary: OptFormer
+Author: OptFormer Team
+Author-email: vizier-team@google.com
+License-File: LICENSE
+Requires-Dist: t5
+Requires-Dist: seqio
+Requires-Dist: google-vizier
+Requires-Dist: matplotlib
+Requires-Dist: numpy>=1.21.5
+Requires-Dist: tensorflow>=2.9.1
+Requires-Dist: jax
+Requires-Dist: jaxlib
+Requires-Dist: flax
+Requires-Dist: typing
+Requires-Dist: pytest
+Requires-Dist: absl-py>=1.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

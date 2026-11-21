@@ -1,0 +1,21 @@
+# T5X prerequisites.
+t5
+seqio
+
+# OSS Vizier
+google-vizier
+
+# For the notebook
+matplotlib
+
+# Autodiff and numerical packages.
+numpy>=1.21.5
+tensorflow>=2.9.1
+jax  # Use latest version for t5x.
+jaxlib  # Use latest version for t5x.
+flax  # Use latest version for t5x.
+
+# Standard packages.
+typing  # Version dependent on Python version.
+pytest  # Use the latest version to match github workflow.
+absl-py>=1.0.0
